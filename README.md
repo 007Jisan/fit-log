@@ -6,9 +6,7 @@
 
 ## 📸 Project Preview
 <img width="1881" height="886" alt="image" src="https://github.com/user-attachments/assets/68e78ddd-15eb-4886-a191-638ffe0133d7" />
-
-
-*(নোট: এখানে আপনার ওয়েবসাইটের একটি সুন্দর স্ক্রিনশট আপলোড করে তার লিংকটি বসিয়ে দিবেন)*
+<img width="1896" height="891" alt="image" src="https://github.com/user-attachments/assets/a29fac6b-c757-4f4c-904d-a544d8fd5bec" />
 
 ## 🚀 Technologies Used
 - **Framework:** Next.js (App Router)
