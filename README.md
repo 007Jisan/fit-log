@@ -30,20 +30,17 @@ Follow these steps to set up and run the FitLog application on your local machin
    ```bash
    git clone [https://github.com/007Jisan/FitLog.git](https://github.com/007Jisan/FitLog.git
    Navigate to the project directory:
+Navigate to the project directory:
 
-1.Navigate to the project directory:
 Bash
 cd FitLog
 Install the dependencies:
 
-2.Install the dependencies:
 Bash
 npm install
 Start the development server:
 
-3.Start the development server:
 Bash
 npm run dev
-4.Open the application:
 Open the application:
 Open your browser and visit http://localhost:3000 to see the app running.
