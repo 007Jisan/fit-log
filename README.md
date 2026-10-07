@@ -15,3 +15,4 @@ FitLog is a dark, no-nonsense gym companion web application built for fitness en
 3. **Daily Plan Management:** Add up to 5 exercises to "Today's Plan" with live metrics (Exercises, Minutes, Calories).
 4. **Mark as Done:** Keep track of your progress by marking completed workouts.
 5. **Save for Later & Persistence:** Bookmark workouts and keep your plan saved even after page reloads using LocalStorage.
+## Live Link:https://fit-log-zeta-three.vercel.app/
